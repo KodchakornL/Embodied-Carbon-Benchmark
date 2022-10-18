@@ -20,6 +20,14 @@ LearnCarbon is a Rhino plugin that integrates two machine learning models:
 * **flask**: A Python module that lets you develop web applications easily.
 * **Altair**: A declarative statistical visualization library for Python.
 
+## Input Data
+1.Building Construction type
+2.type B
+3.location B
+4. Area
+5.floor
 
+## Target
+CO2
 
 
